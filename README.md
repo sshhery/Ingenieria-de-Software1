@@ -1,11 +1,7 @@
 <div align="center"> 
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software1)
-[![GitHub stars](https://img.shields.io/github/stars/Fabian-Martinez-Rincon/Ingenieria-de-Software1)](https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software1/stargazers/)
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Fabian-Martinez-Rincon/Ingenieria-de-Software1)](https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software1)
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=1700&pause=800&color=28CDF7&center=true&width=863&lines=🖥️ Ingenieria de Software 1"/>
  </div>
 
 </div>
