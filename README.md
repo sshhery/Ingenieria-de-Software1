@@ -5,6 +5,7 @@
  </div>
 
 </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=1700&pause=800&color=28CDF7&center=true&width=863&lines=🖥️ Ingenieria de Software 1"/>
 
 <a title="" href="https://cafecito.app/ei-materias"><img src="/Documentos/Cafecito.png" alt="" /></a>
 
